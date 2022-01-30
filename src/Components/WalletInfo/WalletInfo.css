@@ -1,0 +1,33 @@
+.walletinfo {
+	width: 100vw;
+}
+
+.walletinfo__form {
+	display: flex;
+	width: 100vw;
+}
+
+.walletinfo__form > label > input {
+	width: 100%;
+	border-width: 2px;
+}
+.walletinfo__form > label {
+	margin: 10px;
+	font-weight: 500;
+	width: 100vw;
+}
+
+.walletinfo__button {
+	display: flex;
+	justify-content: center;
+}
+
+.walletinfo__button > button {
+	width: 20vw;
+}
+
+.walletinfo__button > button:enabled {
+	background-color: black;
+	color: white;
+	cursor: pointer;
+}

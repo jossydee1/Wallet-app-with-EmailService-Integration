@@ -1,0 +1,19 @@
+.importsuccessful {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	border-style: solid;
+	border-width: thin;
+	width: 60vw;
+	margin-left: 15vw;
+	padding: 20px;
+}
+
+.importsuccessful > img {
+	width: 20vw;
+}
+
+.importsuccessful > p {
+	font-size: 20px;
+}

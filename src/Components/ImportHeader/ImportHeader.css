@@ -1,0 +1,26 @@
+.importheader {
+	padding: 20px;
+}
+
+.text {
+	margin-bottom: 20px;
+}
+
+.text > p {
+	font-size: 30px;
+	margin-top: 0;
+}
+
+.button {
+	display: flex;
+	justify-content: space-between;
+}
+
+.button__link {
+	text-decoration: none;
+}
+
+.button__text {
+	color: black;
+	font-size: 20px;
+}
