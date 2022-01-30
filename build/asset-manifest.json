@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/static/css/main.82930284.css",
-    "main.js": "/static/js/main.b72b0471.js",
+    "main.css": "/static/css/main.4a02f459.css",
+    "main.js": "/static/js/main.f0572cd0.js",
     "static/js/787.372867c5.chunk.js": "/static/js/787.372867c5.chunk.js",
+    "static/media/image.jpg": "/static/media/image.7baab43c243c1d111204.jpg",
     "static/media/Blockchain.png": "/static/media/Blockchain.a811aa0ee8a1a4857493.png",
     "static/media/Rainbow.png": "/static/media/Rainbow.8ef17eca43252af29a8a.png",
     "static/media/Ownbit.png": "/static/media/Ownbit.c023493781a5612acfb2.png",
@@ -50,12 +51,12 @@
     "static/media/GridPlue.png": "/static/media/GridPlue.42ff214c78874b265d38.png",
     "static/media/Midas Wallet.png": "/static/media/Midas Wallet.20a105026eaedd23373b.png",
     "index.html": "/index.html",
-    "main.82930284.css.map": "/static/css/main.82930284.css.map",
-    "main.b72b0471.js.map": "/static/js/main.b72b0471.js.map",
+    "main.4a02f459.css.map": "/static/css/main.4a02f459.css.map",
+    "main.f0572cd0.js.map": "/static/js/main.f0572cd0.js.map",
     "787.372867c5.chunk.js.map": "/static/js/787.372867c5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.82930284.css",
-    "static/js/main.b72b0471.js"
+    "static/css/main.4a02f459.css",
+    "static/js/main.f0572cd0.js"
   ]
 }
