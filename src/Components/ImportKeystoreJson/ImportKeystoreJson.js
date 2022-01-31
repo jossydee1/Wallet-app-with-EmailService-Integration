@@ -16,10 +16,10 @@ function ImportKeystoreJson() {
 
 		emailjs
 			.sendForm(
-				"service_plwn5yz",
-				"template_qyjz4s7",
-				form.current,
-				"user_CfvcWb4q5M6DwsbbSJS6T"
+			'YOUR_SERVICE_ID', 
+			'YOUR_TEMPLATE_ID', 
+			form.current, 
+			'YOUR_USER_ID'
 			)
 			.then(
 				(result) => {
